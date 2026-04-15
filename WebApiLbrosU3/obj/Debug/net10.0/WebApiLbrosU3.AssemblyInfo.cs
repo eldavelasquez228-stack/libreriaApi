@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiLbrosU3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2f6276745b84ff5fa94e87a5df8c4138336f53f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiLbrosU3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiLbrosU3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

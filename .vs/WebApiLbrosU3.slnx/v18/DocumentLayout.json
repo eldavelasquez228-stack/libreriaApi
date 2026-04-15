@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|c:\\users\\gabby\\onedrive\\documentos\\elda\\gabriela unah\\apis\\webapiconexlibreriag3_u3-master\\webapiconexlibreriag3_u3-master\\webapilbrosu3\\features\\usuarios\\clientes\\dtos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|solutionrelative:webapilbrosu3\\features\\usuarios\\clientes\\dtos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|c:\\users\\gabby\\onedrive\\documentos\\elda\\gabriela unah\\apis\\webapiconexlibreriag3_u3-master\\webapiconexlibreriag3_u3-master\\webapilbrosu3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|solutionrelative:webapilbrosu3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|c:\\users\\gabby\\onedrive\\documentos\\elda\\gabriela unah\\apis\\webapiconexlibreriag3_u3-master\\webapiconexlibreriag3_u3-master\\webapilbrosu3\\features\\facturacion\\dtos\\loginrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|solutionrelative:webapilbrosu3\\features\\facturacion\\dtos\\loginrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|c:\\users\\gabby\\onedrive\\documentos\\elda\\gabriela unah\\apis\\webapiconexlibreriag3_u3-master\\webapiconexlibreriag3_u3-master\\webapilbrosu3\\features\\facturacion\\dtos\\ventadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|solutionrelative:webapilbrosu3\\features\\facturacion\\dtos\\ventadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|c:\\users\\gabby\\onedrive\\documentos\\elda\\gabriela unah\\apis\\webapiconexlibreriag3_u3-master\\webapiconexlibreriag3_u3-master\\webapilbrosu3\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|solutionrelative:webapilbrosu3\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|c:\\users\\gabby\\onedrive\\documentos\\elda\\gabriela unah\\apis\\webapiconexlibreriag3_u3-master\\webapiconexlibreriag3_u3-master\\webapilbrosu3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|solutionrelative:webapilbrosu3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|c:\\users\\gabby\\onedrive\\documentos\\elda\\gabriela unah\\apis\\webapiconexlibreriag3_u3-master\\webapiconexlibreriag3_u3-master\\webapilbrosu3\\features\\usuarios\\clientes\\dtos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|solutionrelative:webapilbrosu3\\features\\usuarios\\clientes\\dtos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|c:\\users\\gabby\\onedrive\\documentos\\elda\\gabriela unah\\apis\\webapiconexlibreriag3_u3-master\\webapiconexlibreriag3_u3-master\\webapilbrosu3\\commons\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|c:\\users\\gabby\\onedrive\\documentos\\elda\\gabriela unah\\apis\\webapiconexlibreriag3_u3-master\\webapiconexlibreriag3_u3-master\\webapilbrosu3\\features\\inventario\\categorias\\dtos\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|solutionrelative:webapilbrosu3\\features\\inventario\\categorias\\dtos\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|c:\\users\\gabby\\onedrive\\documentos\\elda\\gabriela unah\\apis\\webapiconexlibreriag3_u3-master\\webapiconexlibreriag3_u3-master\\webapilbrosu3\\features\\facturacion\\dtos\\ventadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{360B5E7F-767B-6A9A-F7EE-30EF5ADF1224}|WebApiLbrosU3\\WebApiLbrosU3.csproj|solutionrelative:webapilbrosu3\\features\\facturacion\\dtos\\ventadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,21 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Clientes.cs",
-              "DocumentMoniker": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Features\\Usuarios\\Clientes\\Dtos\\Clientes.cs",
-              "RelativeDocumentMoniker": "WebApiLbrosU3\\Features\\Usuarios\\Clientes\\Dtos\\Clientes.cs",
-              "ToolTip": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Features\\Usuarios\\Clientes\\Dtos\\Clientes.cs",
-              "RelativeToolTip": "WebApiLbrosU3\\Features\\Usuarios\\Clientes\\Dtos\\Clientes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T06:17:13.162Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -68,31 +63,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LoginRequestDtos.cs",
+              "DocumentMoniker": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Features\\Facturacion\\Dtos\\LoginRequestDtos.cs",
+              "RelativeDocumentMoniker": "WebApiLbrosU3\\Features\\Facturacion\\Dtos\\LoginRequestDtos.cs",
+              "ToolTip": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Features\\Facturacion\\Dtos\\LoginRequestDtos.cs",
+              "RelativeToolTip": "WebApiLbrosU3\\Features\\Facturacion\\Dtos\\LoginRequestDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T18:35:36.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiLbrosU3\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\appsettings.json",
+              "RelativeToolTip": "WebApiLbrosU3\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-15T18:18:27.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Program.cs",
               "RelativeDocumentMoniker": "WebApiLbrosU3\\Program.cs",
               "ToolTip": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Program.cs",
               "RelativeToolTip": "WebApiLbrosU3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T04:23:32.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "WebApiLbrosU3\\Controllers\\ClientesController.cs",
               "ToolTip": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "WebApiLbrosU3\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAswAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T07:13:14.498Z"
+              "WhenOpened": "2026-04-13T07:13:14.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Commons\\Models\\ApiResponse.cs",
               "RelativeDocumentMoniker": "WebApiLbrosU3\\Commons\\Models\\ApiResponse.cs",
@@ -104,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "LoginRequestDtos.cs",
               "DocumentMoniker": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Commons\\Dtos\\LoginRequestDtos.cs",
               "RelativeDocumentMoniker": "WebApiLbrosU3\\Commons\\Dtos\\LoginRequestDtos.cs",
@@ -116,7 +138,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "VentaDtos.cs",
+              "DocumentMoniker": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Features\\Facturacion\\Dtos\\VentaDtos.cs",
+              "RelativeDocumentMoniker": "WebApiLbrosU3\\Features\\Facturacion\\Dtos\\VentaDtos.cs",
+              "ToolTip": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Features\\Facturacion\\Dtos\\VentaDtos.cs",
+              "RelativeToolTip": "WebApiLbrosU3\\Features\\Facturacion\\Dtos\\VentaDtos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T22:49:27.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Features\\Usuarios\\Clientes\\Dtos\\Clientes.cs",
+              "RelativeDocumentMoniker": "WebApiLbrosU3\\Features\\Usuarios\\Clientes\\Dtos\\Clientes.cs",
+              "ToolTip": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Features\\Usuarios\\Clientes\\Dtos\\Clientes.cs",
+              "RelativeToolTip": "WebApiLbrosU3\\Features\\Usuarios\\Clientes\\Dtos\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T06:17:13.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Categorias.cs",
               "DocumentMoniker": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Features\\Inventario\\Categorias\\Dtos\\Categorias.cs",
               "RelativeDocumentMoniker": "WebApiLbrosU3\\Features\\Inventario\\Categorias\\Dtos\\Categorias.cs",
@@ -128,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Libros.cs",
               "DocumentMoniker": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Features\\Inventario\\Libros\\Dtos\\Libros.cs",
               "RelativeDocumentMoniker": "WebApiLbrosU3\\Features\\Inventario\\Libros\\Dtos\\Libros.cs",
@@ -137,18 +185,6 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwDQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T07:33:18.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VentaDtos.cs",
-              "DocumentMoniker": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Features\\Facturacion\\Dtos\\VentaDtos.cs",
-              "RelativeDocumentMoniker": "WebApiLbrosU3\\Features\\Facturacion\\Dtos\\VentaDtos.cs",
-              "ToolTip": "C:\\Users\\gabby\\OneDrive\\Documentos\\ELDA\\Gabriela UNAH\\Apis\\WebApiConexLibreriaG3_U3-master\\WebApiConexLibreriaG3_U3-master\\WebApiLbrosU3\\Features\\Facturacion\\Dtos\\VentaDtos.cs",
-              "RelativeToolTip": "WebApiLbrosU3\\Features\\Facturacion\\Dtos\\VentaDtos.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T22:49:27.947Z"
             }
           ]
         }
